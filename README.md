@@ -33,8 +33,6 @@ index.html
 O arquivo HTML básico onde a interface é criada. Contém campos para adicionar os participantes e botões para realizar as ações.
 
 
-      by Cristiano Lessa
-
 script.js
 O código JavaScript que realiza as principais funções:
 
@@ -42,3 +40,6 @@ O código JavaScript que realiza as principais funções:
 - atualizarLista: Exibe a lista atualizada de participantes.
 
 - sortearAmigo: Realiza o sorteio dos amigos secretos e exibe o resultado.
+
+                by Cristiano Lessa
+
